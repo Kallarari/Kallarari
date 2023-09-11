@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallarari&show_icons=true&theme=dark)
 
 
-My web shocase
+My web showcase
 [![Web showcase](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]([https://dev.to/kallarari](https://portfolio-kallarari.vercel.app/))
 
 My newest website
