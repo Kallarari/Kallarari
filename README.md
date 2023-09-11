@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallarari&show_icons=true&theme=dark)
 
+![Web showcase](https://portfolio-kallarari.vercel.app/).
+
 My stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
