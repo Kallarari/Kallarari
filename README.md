@@ -3,9 +3,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kallarari&show_icons=true&theme=dark)
 
-![Web showcase](https://portfolio-kallarari.vercel.app/).
+
+My web shocase
+[![Web showcase](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]([https://dev.to/kallarari](https://portfolio-kallarari.vercel.app/))
+
+My newest website
+[![portfolio](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/Kallarari/portfolio)
 
 My stack
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
